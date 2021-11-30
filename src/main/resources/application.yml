@@ -1,0 +1,8 @@
+spring.data.mongodb.uri: mongodb://root:root@localhost:27017/lab7
+
+mongodb.encrypt:
+  keys:
+    - version: 1
+      key: 4SYEsncBZYWxUw2187IFU5vHcRmv0xePe5wvKoC3j8o=
+
+silent-decryption-failures: true
