@@ -62,3 +62,7 @@ Meeting(id=61a5c9256b0ad16479566667, title=Sprint retrospection, author=User(id=
 
 You can open http://localhost/db/lab7/user (MongoDB Express) in your browser and check that `User` data is encrypted. As result, data remains encrypted at rest and applications that don't share the secret key cannot access
 the sensitive data.
+
+### Video
+
+[Application demo video](https://vimeo.com/651433030/47b86e756e)
